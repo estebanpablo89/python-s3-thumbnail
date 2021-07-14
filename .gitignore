@@ -1,0 +1,4 @@
+/.npmignore
+/.serverless
+/node_modules
+/package-lock.json
